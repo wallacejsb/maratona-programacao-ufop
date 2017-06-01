@@ -1,4 +1,4 @@
-# Repositório do time da maratona de programação UFOP (Em Construção)
+# Repositório do time da maratona de programação UFOP 2017 (Em Construção)
 
 
 ## Estrutura do Repositório
@@ -9,7 +9,7 @@
 
 ## Minicurso
 
-Projeto treinamento em algoritmos e programação avançada/Programa Ação (UFOP/IFMG), minicurso em C++ utilizando a plataforma [URI](www.urionlinejudge.com.br) e [SPOJ](http://br.spoj.com/) para resolução de problemas.
+Projeto treinamento em algoritmos e programação avançada/Programa Ação (UFOP/IFMG), minicurso em C++ utilizando a plataforma [URI](https://www.urionlinejudge.com.br) e [SPOJ](http://br.spoj.com/) para resolução de problemas.
 
 Autor: [Prof. Marco Antônio](http://www.decom.ufop.br/marco/)
 
@@ -60,7 +60,7 @@ Autor: [Prof. Marco Antônio](http://www.decom.ufop.br/marco/)
   - Aula 11
 	- Tipos de Busca em Grafos 
 	- Busca em Largura [Aula 11](./curso/Aula12/12_aula_12.pdf) [Codigo exemplo](./codigos/algoritmos/c++/grafos/bfs.cpp)
-	- Busca em Profundidade [Aula 11](./curso/Aula13/13_a	ula_13.pdf) [Codigo exemplo](./codigos/algoritmos/c++/grafos/dfs.cpp)
+	- Busca em Profundidade [Aula 11](./curso/Aula13/13_aula_13.pdf) [Codigo exemplo](./codigos/algoritmos/c++/grafos/dfs.cpp)
 
   - Aula 12
 	- Árvores, árvores binárias de busca [Aula 12](./curso/Aula13/13_aula_13.pdf) [Codigo exemplo](./codigos/algoritmos/c++/grafos/bfs.cpp)
